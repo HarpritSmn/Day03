@@ -1,0 +1,23 @@
+h1{
+	visibility: hidden;
+}
+
+div{
+	border: solid;
+}
+
+div.third > p  {
+  visibility: hidden;
+}
+
+
+#second .right {
+	visibility:hidden;
+}
+#second .right img {
+	visibility:visible;
+}
+	
+
+
+
